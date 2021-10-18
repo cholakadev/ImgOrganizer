@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgOrganizerCore", "ImgOrganizerCore\ImgOrganizerCore.csproj", "{8B8C0323-0968-4B7C-845D-52475C4B0A20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImgOrganizerCore", "ImgOrganizerCore\ImgOrganizerCore.csproj", "{8B8C0323-0968-4B7C-845D-52475C4B0A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgOrganizer.Models", "ImgOrganizer.Models\ImgOrganizer.Models.csproj", "{D62C0353-D324-4D28-A68F-AE519B2735D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8B8C0323-0968-4B7C-845D-52475C4B0A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B8C0323-0968-4B7C-845D-52475C4B0A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B8C0323-0968-4B7C-845D-52475C4B0A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62C0353-D324-4D28-A68F-AE519B2735D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62C0353-D324-4D28-A68F-AE519B2735D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62C0353-D324-4D28-A68F-AE519B2735D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62C0353-D324-4D28-A68F-AE519B2735D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
